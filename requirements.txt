@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+faiss-cpu  # For FAISS vector store
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-generativeai
+python-dotenv
+
